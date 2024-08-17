@@ -39,7 +39,7 @@ médio absoluto (MAE).
 
 
 ### Requerimentos:
-- requerimentos.txt
+- requirements.txt
 
 ### Tecnologias usada:
 - Python
